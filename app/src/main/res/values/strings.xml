@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Unobliviate</string>
+    <string name="question">A future is a contract to buy/sell an asset at a future date at an agreed-on price.</string>
+    <string name="answer">What is a future in trading?</string>
 </resources>
